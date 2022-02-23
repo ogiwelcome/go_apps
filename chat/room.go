@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/gorilla/websocket"
+	"github.com/ogiwelcome/go_apps/trace"
 	"log"
 	"net/http"
 )
