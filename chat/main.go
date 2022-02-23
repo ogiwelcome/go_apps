@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/matryer/goblueprints/chapter1/trace"
+	"github.com/ogiwelcome/go_apps/trace"
 	"log"
 	"net/http"
 	"os"
