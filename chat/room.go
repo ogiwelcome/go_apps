@@ -1,7 +1,6 @@
 package main
 
 import (
-	"../trace"
 	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
